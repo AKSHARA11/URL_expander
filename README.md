@@ -1,5 +1,8 @@
-## Extracting and Expanding URLs fro a dataset:
+## Extracting and Expanding URLs from a given dataset:
 This program extracts and expaands the URL given in each tweet, from a dataset(json format) and adds the expanded URL as a new entry in the dataset. 
+
+orig datset: small_data_ukge.json
+new dataset: data.json
 
 
 
